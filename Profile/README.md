@@ -9,10 +9,12 @@
     </a>
   </p>
   <h1>About</h1>
-  <p><b>pyvs</b> is a private organization owned by <a href="https://github.com/aqeu">riri</a> for funds and holder</p>
+  <p><b>pyvs</b> is a private organization owned by <a href="https://github.com/aqeu">riri</a> for fun</p>
+  <h1>Repositories</h1>
+  <p><b>soon</b></p>
   <h1>Contact</h1>
   <p>
-    <a href="https://haunt.gg/oh">riri</a><br>
+    <a href="https://haunt.gg/oh">owner</a><br>
     <a href="https://discord.gg/nsXv6s6Xyb">server</a>
   </p>
   <br>
