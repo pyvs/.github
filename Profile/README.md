@@ -9,7 +9,7 @@
     </a>
   </p>
   <h1>About</h1>
-  <p><b>pyvs</b> is a private organization owned by <a href="https://github.com/aqeu">riri</a> for fun</p>
+  <p><b>pyvs</b> is a private organization owned by <a href="https://github.com/iviu">riri</a> for fun</p>
   <h1>Repositories</h1>
   <p><b>soon</b></p>
   <h1>Contact</h1>
